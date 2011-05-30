@@ -17,7 +17,6 @@
 -->
 </style>
 <div id="wrapper">
-  <div id="header">
-    <div id="footer">Content for  id "footer" Goes Here</div>
-  </div>
+  <div id="header"></div>
+  <div id="footer">Content for  id &quot;footer&quot; Goes Here</div>
 </div>
