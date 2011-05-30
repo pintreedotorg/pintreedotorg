@@ -12,12 +12,11 @@
 #footer {
 	height: 30px;
 	width: 1000px;
-	bottom: 1%;
+	bottom: 10%;
 }
 -->
 </style>
 <div id="wrapper">
-  <div id="header">
-    <div id="footer">Content for  id "footer" Goes Here</div>
-  </div>
+  <div id="header"></div>
+  <div id="footer">Content for  id &quot;footer&quot; Goes Here</div>
 </div>
